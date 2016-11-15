@@ -22,3 +22,11 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# App binary
+playbulb_svc
+
+# Idea
+.idea/
+*.iml
+
